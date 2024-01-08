@@ -7,7 +7,8 @@
 
 - Scheme, 6502, NES H/W 를 안다면 C보다 편한 개발 환경이 될 수도 있을 것 같다.
   * scheme -> 6502 asm 컴파일이 상당히 이해하기 쉽기 때문임. 
-  * 지저분한 코드가 거의 안 생김. (현재까지는 소감)
+  * 지저분한 코드가 거의 안 생김. (현재까지의 느낌은 이렇다. 좀 더 분석해 봐야 한다.)
+  * array, struct 는...? 🤔  
   * Ethereum LLL 을 보는 듯하다.
 
 - "WARNING, THIS CODE IS EXPERIMENTAL AND UNSTABLE. USE WITH CAUTION"
