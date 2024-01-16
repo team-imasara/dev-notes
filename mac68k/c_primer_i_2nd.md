@@ -1,5 +1,5 @@
 
-# Macintosh Programming Primer Volume I, 2nd edition, 1992
+# Macintosh C Programming Primer Volume I, 2nd edition, 1992
 
 ## chatpter 05
 
