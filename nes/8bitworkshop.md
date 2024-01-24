@@ -8,3 +8,5 @@ https://8bitworkshop.com/docs/docs/ide.html
   * 가격도 적당함 ( 전차책 구매 )
  
   
+- chapter 10, Scrolling
+  * [ ] 가로 스크롤을 모르겠다 
